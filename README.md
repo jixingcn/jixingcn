@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+Welcome to visit my Chinese blog - [https://jixing.ink/](https://jixing.ink/).
 
 <!--
 **jixingcn/jixingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
